@@ -15,7 +15,7 @@ process.env.REACT_APP_API_KEY
 ### The Link to the IP tracker site: https://geo.ipify.org/
 ![Screenshot (12)](https://user-images.githubusercontent.com/58944221/189890695-c3e49853-2a63-4381-a11c-bc6245727fdf.jpg)
 
-### For the Map - use react-leaflet  https://leafletjs.com/
+### For the Map - use react-leaflet  https://react-leaflet.js.org/
 #### Add this CDN to your public folder inside the index.html in your react project
 ```
 <!-- leaflet CSS CDN -->
